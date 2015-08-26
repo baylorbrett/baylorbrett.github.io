@@ -1,0 +1,30 @@
+body {font-family: "Futura", "Sans-Serif";
+	color: #ecf0f1;
+	background-color: #16a085;
+	text-align: center;
+}
+#slogan {
+	font-style: italic;
+}
+.color {
+    width: 100px;
+    padding: 100px;
+    border: 5px solid gray;
+    margin: 0; 
+    background: #53a7ea
+}
+.color:hover
+{
+        background: #F1A2D4;
+}
+.email {
+    width: 100px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin: 0; 
+    background: #53a7ea;
+}
+.email:hover
+{
+        background: #F1A2D4;
+}
