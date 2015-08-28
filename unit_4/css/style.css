@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Codystar);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+h1 {
+    font-family: "Lato", "Futura", "Sans-Serif";
+    font-size: 50pt;    
+    text-align: center;
+    color: #67809F
+}
+
+body {font-family: "Futura", "Sans-Serif";
+	color: #EEEEEE;
+	background-color: #EEEEEE;
+	text-align: center;
+}
+.lorem {
+    color: #65C6BB;
+}
+
+h2 {
+    color:#EEEEEE;
+}
+
+ .container {
+ width: 960px;
+ margin: 0 auto;
+ height: 450px;
+ }
+
+.box1 {
+ float:left;
+ background-color: #19B5FE;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+ transition:all 0.6s ease;
+
+}
+.box1:hover {
+    background:#F9BF3B;
+}
+ .box2 {
+ float:left;
+ background-color: #36D7B7;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+ transition:all 0.6s ease;
+
+ }
+ .box2:hover {
+    background:#F9BF3B;
+}
+ .box3 {
+ float:left;
+ background-color: #89C4F4;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+  transition:all 0.6s ease;
+ }
+ .box3:hover {
+    background:#F9BF3B;
+}
+.box4 {
+ float:left;
+ background-color: #81CFE0;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+ transition:all 0.6s ease;
+}
+.box4:hover {
+    background:#F9BF3B;
+}
+ .box5 {
+ float:left;
+ background-color: #1BA39C;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+ transition:all 0.6s ease;
+
+ }
+ .box5:hover {
+    background:#F9BF3B;
+}
+ .box6 {
+ float:left;
+ background-color: #1E8BC3;
+ width: 290px;
+ margin: auto;
+ padding: 10px;
+  transition:all 0.6s ease;
+ }
+ .box6:hover {
+    background:#F9BF3B;
+}
+
