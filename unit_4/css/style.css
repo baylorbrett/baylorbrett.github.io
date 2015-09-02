@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Codystar);
 @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+@import url(https://fonts.googleapis.com/css?family=Arvo);
 h1 {
-    font-family: "Lato", "Futura", "Sans-Serif";
+    font-family: "Roboto", "Futura", "Sans-Serif";
     font-size: 50pt;    
     text-align: center;
     color: #67809F
@@ -14,6 +16,8 @@ body {font-family: "Futura", "Sans-Serif";
 }
 .lorem {
     color: #67809F;
+    font-family: "Arvo", "Sans-Serif";
+    text-align: justify;
 }
 
 h2 {
@@ -32,6 +36,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
  transition:all 0.6s ease;
 
 }
@@ -44,6 +49,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
  transition:all 0.6s ease;
 
  }
@@ -56,6 +62,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
   transition:all 0.6s ease;
  }
  .box3:hover {
@@ -67,6 +74,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
  transition:all 0.6s ease;
 }
 .box4:hover {
@@ -78,6 +86,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
  transition:all 0.6s ease;
 
  }
@@ -90,6 +99,7 @@ h2 {
  width: 290px;
  margin: auto;
  padding: 10px;
+ cursor: pointer;
   transition:all 0.6s ease;
  }
  .box6:hover {
